@@ -1,0 +1,11 @@
+{
+  "org": "databrickslabs",
+  "repo": "discoverx",
+  "versions": [
+    {
+      "commit": "176ae3351be20629e15ced7d251d785f242b5be0",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:03:37.657144+00:00"
+    }
+  ]
+}
